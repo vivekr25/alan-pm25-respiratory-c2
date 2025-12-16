@@ -18,4 +18,4 @@ simulated to reflect realistic daily variability.
 ## What this analysis cannot prove
 - Individual level exposure or causality
 - Effects independent of other time-varying factors
-- Long-term health impacts
+- Long-term health impacts.
