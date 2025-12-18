@@ -1,4 +1,5 @@
 ALAN-C2: PM₂.₅ Exposure and Respiratory Admissions (Event Study)
+**Live app:** https://alan-pm25-respiratory-c2-d9cpuzjponbxsubviqpwyv.streamlit.app/
 
 1. Project overview
 
@@ -112,7 +113,8 @@ Step 5: Summarise event effects
 6. Key findings (simulated data)
 	## Key Insights (quick read)
 
-- **No clear pre-trend:** admissions in days −7 to −1 are close to baseline.
+-## Key insights (quick read)
+- **No clear pre-trend:** admissions in days −7 to −1 stay close to baseline.
 - **Short-term uplift around exposure:** admissions rise on day 0 and peak around days +1 to +2.
 - **Uncertainty is explicit:** 95% confidence intervals show where the signal is strongest vs where results remain compatible with baseline.
 
