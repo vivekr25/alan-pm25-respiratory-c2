@@ -10,6 +10,9 @@ The analysis focuses on Claudelands (Waikato) and uses publicly available air-qu
 Purpose:
 Not prediction or causal proof, but to examine whether observed patterns are consistent with known environmental health mechanisms.
 
+### App preview
+![Streamlit app preview](docs/streamlit_app.png)
+
 ⸻
 
 2. Research question
@@ -113,7 +116,7 @@ Step 5: Summarise event effects
 6. Key findings (simulated data)
 	## Key Insights (quick read)
 
--## Key insights (quick read)
+Key insights (quick read)
 - **No clear pre-trend:** admissions in days −7 to −1 stay close to baseline.
 - **Short-term uplift around exposure:** admissions rise on day 0 and peak around days +1 to +2.
 - **Uncertainty is explicit:** 95% confidence intervals show where the signal is strongest vs where results remain compatible with baseline.
