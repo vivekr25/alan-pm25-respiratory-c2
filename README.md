@@ -110,16 +110,19 @@ Step 5: Summarise event effects
 ⸻
 
 6. Key findings (simulated data)
-	•	No strong pre-trend:
-Admissions before high PM₂.₅ days resemble baseline levels.
-	•	Event-day increase:
-Admissions rise on the day of high exposure.
-	•	Lagged peak (days +1 to +2):
-The strongest increase occurs 1–2 days after exposure, consistent with respiratory response mechanisms.
-	•	Return to baseline:
-Admissions gradually fall back toward normal levels in subsequent days.
+	## Key Insights (quick read)
 
-These patterns align with established environmental health literature on short-term pollution exposure.
+- **No clear pre-trend:** admissions in days −7 to −1 are close to baseline.
+- **Short-term uplift around exposure:** admissions rise on day 0 and peak around days +1 to +2.
+- **Uncertainty is explicit:** 95% confidence intervals show where the signal is strongest vs where results remain compatible with baseline.
+
+### Visual summary
+
+**Mean admissions (with 95% CI)**
+![Event study mean admissions](docs/event_study_ci_plot.png)
+
+**Difference vs baseline (with 95% CI)**
+![Event study difference vs baseline](docs/event_study_diff_ci_plot.png)
 
 ⸻
 
